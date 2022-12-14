@@ -21,7 +21,7 @@ catch (Exception ex)
 }
 finally // finalmente (então faça)
 {
-  Console.WriteLine("CHegou até awui!");
+  Console.WriteLine("Chegou até aqui!");
 }
 
 
