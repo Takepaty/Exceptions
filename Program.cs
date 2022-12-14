@@ -19,7 +19,7 @@ catch (Exception ex)
 {
   Console.WriteLine($"Ocorreu uma exceção genérica! {ex.Message}");
 }
-finally
+finally // finalmente (então faça)
 {
   Console.WriteLine("CHegou até awui!");
 }
